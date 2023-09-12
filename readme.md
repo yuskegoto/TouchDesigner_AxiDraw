@@ -1,0 +1,2 @@
+# Known Issue
+- Pen delays about 10 sec after running more than 10 min. Presumably due to unexeuted and buffered moving commands. Reduing conrol frequency from 20Hz to 10 Hz won't change the situation.
