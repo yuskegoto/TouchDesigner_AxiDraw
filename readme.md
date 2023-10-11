@@ -11,7 +11,7 @@ Background: I've been interested in generative plotting but the projects you can
 
 ![Spiral](https://raw.githubusercontent.com/yuskegoto/TouchDesigner_AxiDraw/main/Pics/spiral.jpg)
 
-![Control Interface](https://raw.githubusercontent.com/yuskegoto/TouchDesigner_AxiDraw/main/Pics/interface.jpg)
+![Control Interface](https://raw.githubusercontent.com/yuskegoto/TouchDesigner_AxiDraw/main/Pics/interface.png)
 
 ## Basic Idea
 Since all plotters including AxiDraw need moving data in advance, it is not inherently adequate for realtime control. My workaround is to split the movement in small time frames, around 10Hz and able to move the head in quasi-realtime. 
